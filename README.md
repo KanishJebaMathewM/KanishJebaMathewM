@@ -1,1 +1,1 @@
-![](https://views.igorkowalczyk.dev/api/badge/KanishJebaMathewM?style=for-the-badge&color=7c3aed&label=Profile+Views)
+![](https://views.igorkowalczyk.dev/api/badge/KanishJebaMathewM?style=flat&color=ff6b6b&label=👀+Visitors)
