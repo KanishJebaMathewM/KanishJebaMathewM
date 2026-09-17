@@ -1,5 +1,5 @@
 ﻿<p align="center">
-  <img src="assets/mathew_sentry_readme_final.gif" width="405" alt="Sentry" />
+  <img src="assets/mathew_sentry_readme_final.gif" width="280" alt="Sentry" />
 </p>
 
 <p align="center">
