@@ -1,6 +1,6 @@
 ﻿<p>
-  <img align="right" src="assets/mathew_sentry_readme_final.gif" height="210" alt="Sentry" />
-  <img align="left" src="assets/left_image.png" height="210" alt="Left Visual" />
+  <img align="right" src="assets/mathew_sentry_readme_final.gif" height="219" alt="Sentry" />
+  <img align="left" src="assets/left_image.png" height="219" alt="Left Visual" />
 </p>
 
 <br clear="both" />
